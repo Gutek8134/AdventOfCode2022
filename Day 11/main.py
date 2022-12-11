@@ -20,7 +20,7 @@ def main() -> None:
         '''
         for _ in range(20):
             for monkey in Monkey.monkeys:
-                monkey.inspectP2()
+                monkey.inspectP1()
         '''
 
         # Part 2 solution
