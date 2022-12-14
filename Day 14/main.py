@@ -1,6 +1,3 @@
-import cmath
-
-
 def main() -> None:
     area: list[list[str]] = [["."]*500 for _ in range(500)]
     wallRange: list[list[int]] = [[len(area[0]), 0], [len(area), 0]]
